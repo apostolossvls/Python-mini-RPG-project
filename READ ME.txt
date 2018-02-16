@@ -1,0 +1,8 @@
+Collect coins 'O'. It is the curent score value
+Collect vision treats '*'. It increases your vision
+Controls:
+	move		 - arrow keys
+	open/close stats - S
+	exit		 - Esc
+How to play:
+Run with python 'rpg1.py'
